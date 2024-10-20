@@ -7,9 +7,10 @@ Through this document you can learn how to create a logic pro x file.
   </shortdesc>
   <taskbody>
 <context>
-        <p> Logic Pro X projects are contained within logic files. In order to manage your projects successfully, you must understand how to create a logic file.  </p>
+    Logic Pro X projects are contained within logic files. In order to manage your projects successfully, you must understand how to create a logic file.
     </context>
     <steps>
+      <stepsection>To create a logic file, follow these steps:</stepsection>
       <step>
         <cmd>Open the Logic Pro X application.</cmd>
       </step>

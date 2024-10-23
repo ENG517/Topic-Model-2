@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_types_of_midi_instruments">
+  <title>Types of MIDI Instruments</title>
+  <shortdesc>
+Midi instruments are virtual instruments that mimic real instruments or manipulate soundwaves
+  </shortdesc>
+  <refbody>
+    <section><title>Types of MIDI Instruments</title>
+    <ul>
+      <li><p>Bass</p></li>
+      <li><p>Drum Kit</p></li>
+      <li><p>Electronic Drum Kit</p></li>
+      <li><p>Guitar</p></li>
+      <li><p>Keyboards</p></li>
+      <li><p>Mallet</p></li>
+      <li><p>Orchestral</p></li>
+      <li><p>Percussion</p></li>
+      <li><p>Piano</p></li>
+      <li><p>Quick Sampler</p></li>
+      <li><p>Studio Horns</p></li>
+      <li><p>Studio Strings</p></li>
+      <li><p>Synthesizer</p></li>
+      <li><p>Vintage B3 Organ</p></li>
+      <li><p>Vintage Clav</p></li>
+      <li><p>Vintage Electric Piano</p></li>
+      <li><p>Vintage Mellotron</p></li>
+      <li><p>World</p></li>
+      <li><p>Arpeggiator</p></li>
+      <li><p>Cinematic</p></li>
+      <li><p>Legacy</p></li>
+    </ul>
+    </section>
+
+  </refbody>
+</reference>

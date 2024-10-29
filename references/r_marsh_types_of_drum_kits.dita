@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_enter_unique_id_here">
+  <title>Types of drum kits in Logic Pro</title>
+  <shortdesc>
+You can use drum kits in Logic Pro to replicate real acoustic drums.
+  </shortdesc>
+  <refbody>
+<section>
+<title>Types of drum kits in Logic Pro</title>
+<ul>
+  <li>Blackbird</li>
+  <li>Brooklyn</li>
+  <li>Detroit Garage</li>
+  <li>East Bay</li>
+  <li>Four On The Floor</li>
+  <li>Heavy</li>
+  <li>Neo Soul</li>
+  <li>Portland</li>
+  <li>Slow Jam</li>
+  <li>Smash</li>
+  <li>Sunset</li>
+</ul>
+</section>  
+  </refbody>
+</reference>

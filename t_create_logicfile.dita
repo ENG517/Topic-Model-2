@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_create_logicfile">
+  <title>Create a Logic Pro X file</title>
+  <shortdesc>
+Through this document you can learn how to create a logic pro x file. 
+  </shortdesc>
+  <taskbody>
+<context>
+    Logic Pro X projects are contained within logic files. In order to manage your projects successfully, you must understand how to create a logic file.
+    </context>
+    <steps>
+      <stepsection>To create a logic file, follow these steps:</stepsection>
+      <step>
+        <cmd>Open the Logic Pro X application.</cmd>
+      </step>
+      <step>
+        <cmd>Select "Empty Project" in the top left corner.</cmd>
+      </step>
+      <step>
+        <cmd>Select "Choose" in the bottom right corner. </cmd>
+      </step>
+      <step>
+        <cmd>Select "File" in the top left corner.</cmd>
+      </step>
+      <step>
+        <cmd>Select "Save File As" in the drop down menu.</cmd>
+      </step>
+      <step>
+        <cmd>Enter a name for your file and select "save."</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

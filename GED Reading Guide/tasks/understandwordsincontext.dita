@@ -1,52 +1,39 @@
-<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="understanding_words_context">
-    <title>Understanding Words in Context</title>
-    <shortdesc>Learn how to understand unfamiliar words using surrounding text and context clues.</shortdesc>
-    <prolog>
-        <metadata>
-            <audience type="novice"/>
-            <keywords>
-                <keyword>vocabulary</keyword>
-                <keyword>context clues</keyword>
-                <keyword>reading comprehension</keyword>
-                <keyword>GED test</keyword>
-            </keywords>
-        </metadata>
-    </prolog>
+    <title>Find Word Meanings</title>
+    <shortdesc>Learn how to understand new words by looking at the words around them.</shortdesc>
     <taskbody>
-        <context>On most Hi-set tests, you'll encounter difficult vocabulary words. While studying vocabulary is helpful, you need strategies for understanding new words during the test.</context>
+        <context>You will see hard words on the GED test. These steps will help you understand them without a dictionary.</context>
         
         <steps>
             <step>
-                <cmd>Locate the unfamiliar word in its paragraph</cmd>
-                <info>Find where the word appears and note its position in the text.</info>
+                <cmd>Find the word you don't know</cmd>
+                <info>Circle the word and read its whole sentence.</info>
+                <stepxmp>In "The situation was contentious," circle "contentious".</stepxmp>
             </step>
+            
             <step>
-                <cmd>Examine the surrounding context</cmd>
-                <info>Look at sentences before and after the word.</info>
+                <cmd>Look at nearby sentences</cmd>
+                <info>The sentences before and after often explain the word.</info>
+                <stepxmp>If nearby sentences talk about disagreements and conflicts, "contentious" probably means there was a lot of disagreement.</stepxmp>
             </step>
+            
             <step>
-                <cmd>Identify context clues</cmd>
-                <substeps>
-                    <substep>
-                        <cmd>Look for explanations or definitions</cmd>
-                    </substep>
-                    <substep>
-                        <cmd>Find examples that illustrate the word's meaning</cmd>
-                    </substep>
-                    <substep>
-                        <cmd>Notice patterns of related ideas</cmd>
-                    </substep>
-                </substeps>
+                <cmd>Check for clue words</cmd>
+                <info>Look for words like:
+                    <ul>
+                        <li>means, is, are (definition clues)</li>
+                        <li>like, such as (example clues)</li>
+                        <li>but, however (contrast clues)</li>
+                    </ul>
+                </info>
             </step>
+            
             <step>
-                <cmd>Determine the word's meaning from context</cmd>
-                <stepxmp>
-                    In the sample text, "contentious" appears in discussion of conflicts and disagreements, suggesting it means "disputed" or "controversial"
-                </stepxmp>
+                <cmd>Try the meaning in the sentence</cmd>
+                <info>Replace the hard word with your guess to see if it makes sense.</info>
             </step>
         </steps>
         
-        <result>You should be able to understand unfamiliar words without a dictionary.</result>
+        <result>You can now figure out what most new words mean by looking at how they're used.</result>
     </taskbody>
 </task>

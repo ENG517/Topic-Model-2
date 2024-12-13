@@ -1,0 +1,55 @@
+<title>Find the Main Idea</title>
+    
+    
+    <shortdesc>Learn how to find what a passage is mainly about.</shortdesc>
+    
+    <prolog>
+        <metadata>
+            <audience type="novice"/>
+            <keywords>
+                <keyword>main idea</keyword>
+                <keyword>reading</keyword>
+                <keyword>GED test</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    
+    <taskbody>
+        
+        <context>Finding the main idea helps you understand what you read. Follow these steps to find it.</context>
+        
+        <steps>
+            
+            <step>
+                <cmd>Read the first and last paragraphs</cmd>
+                <info>Authors often put main ideas at the beginning or end.</info>
+            </step>
+            
+           
+            <step>
+                <cmd>Look for repeated ideas</cmd>
+                <info>Important ideas usually appear multiple times.</info>
+                <example>In a text about Japan's changes, words like "modernization" and "transformation" appear often.</example>
+            </step>
+            
+        
+            <step>
+                <cmd>Separate big ideas from small details</cmd>
+                <info>
+                    <ul>
+                        <li>Big ideas = what the whole text is about</li>
+                        <li>Small details = specific examples that support the big idea</li>
+                    </ul>
+                </info>
+            </step>
+            
+            <step>
+                <cmd>Write the main idea in one sentence</cmd>
+                <info>Your sentence should cover what the whole passage is about.</info>
+            </step>
+        </steps>
+        
+
+        <result>You can now identify what any passage is mainly about.</result>
+    </taskbody>
+</task>

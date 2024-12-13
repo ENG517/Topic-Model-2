@@ -1,34 +1,21 @@
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="main_idea_elements">
-    <title>Understanding Main Idea Elements</title>
-    <shortdesc>Learn about the key components that make up a main idea.</shortdesc>
-    <prolog>
-        <metadata>
-            <audience type="novice"/>
-            <keywords>
-                <keyword>main idea</keyword>
-                <keyword>text structure</keyword>
-                <keyword>supporting details</keyword>
-            </keywords>
-        </metadata>
-    </prolog>
+    <title>Parts of a Main Idea</title>
+    
+    <shortdesc>Learn what makes up a main idea.</shortdesc>
     <conbody>
+     
         <section>
-            <title>Main Idea Components</title>
-            <ul>
-                <li>Central theme or argument</li>
-                <li>Supporting details</li>
-                <li>Key points</li>
-            </ul>
+            <title>What is a Main Idea?</title>
+            <p>The main idea is what the whole passage is about. It's like a summary in one sentence.</p>
         </section>
         
         <section>
-            <title>Text Structure Elements</title>
+            <title>Main Parts</title>
             <ul>
-                <li>Introduction</li>
-                <li>Body paragraphs</li>
-                <li>Conclusion</li>
-                <li>Transition words</li>
+                <li>Big Idea - The main point the author wants to make</li>
+                <li>Support - Examples that prove the big idea</li>
+                <li>Details - Specific facts that help explain</li>
             </ul>
         </section>
     </conbody>

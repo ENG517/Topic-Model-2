@@ -1,0 +1,41 @@
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="evidence_types">
+    <title>Understanding Types of Evidence in Text</title>
+    <shortdesc>Learn to identify different types of evidence in non-fiction and social studies texts.</shortdesc>
+    <prolog>
+        <metadata>
+            <audience type="novice"/>
+            <keywords>
+                <keyword>evidence types</keyword>
+                <keyword>text analysis</keyword>
+                <keyword>reading comprehension</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <section>
+            <title>Core Types of Evidence</title>
+            <ul>
+                <li>Time Markers
+                    <ul>
+                        <li>Dates</li>
+                        <li>Temporal phrases</li>
+                    </ul>
+                </li>
+                <li>Key Historical Figures and Places
+                    <ul>
+                        <li>Important people</li>
+                        <li>Significant locations</li>
+                    </ul>
+                </li>
+                <li>Transition Words
+                    <ul>
+                        <li>Words indicating change</li>
+                        <li>Words showing consequence</li>
+                        <li>Words expressing contrast</li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+    </conbody>
+</concept>

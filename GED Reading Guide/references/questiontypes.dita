@@ -1,0 +1,54 @@
+!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="question_types">
+    <title>Multiple Choice Question Types</title>
+    <shortdesc>Common types of multiple choice questions and strategies for each.</shortdesc>
+    <prolog>
+        <metadata>
+            <audience type="novice"/>
+            <keywords>
+                <keyword>question types</keyword>
+                <keyword>test strategy</keyword>
+                <keyword>multiple choice</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    <refbody>
+        <section>
+            <title>Sample Question Analysis</title>
+            <example>
+                <title>Question: Primary Catalyst for Japan's Modernization</title>
+                <p>Which event served as the primary catalyst for Japan's rapid modernization in the 19th century?</p>
+                <ul>
+                    <li>A) The desire to preserve samurai traditions</li>
+                    <li>B) The arrival of Commodore Perry's "Black Ships"</li>
+                    <li>C) The natural evolution of Japanese society</li>
+                    <li>D) The personal ambitions of Emperor Meiji</li>
+                </ul>
+                <p>Correct Answer: B</p>
+                <p>Reasoning: Text directly connects Perry's arrival to subsequent modernization</p>
+            </example>
+        </section>
+        
+        <section>
+            <title>Common Question Types</title>
+            <simpletable>
+                <sthead>
+                    <stentry>Type</stentry>
+                    <stentry>Strategy</stentry>
+                </sthead>
+                <strow>
+                    <stentry>Main Idea</stentry>
+                    <stentry>Look for overall theme or message</stentry>
+                </strow>
+                <strow>
+                    <stentry>Detail</stentry>
+                    <stentry>Return to text for specific information</stentry>
+                </strow>
+                <strow>
+                    <stentry>Vocabulary</stentry>
+                    <stentry>Use context clues to determine meaning</stentry>
+                </strow>
+            </simpletable>
+        </section>
+    </refbody>
+</reference>

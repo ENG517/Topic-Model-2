@@ -1,0 +1,52 @@
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="understanding_words_context">
+    <title>Understanding Words in Context</title>
+    <shortdesc>Learn how to understand unfamiliar words using surrounding text and context clues.</shortdesc>
+    <prolog>
+        <metadata>
+            <audience type="novice"/>
+            <keywords>
+                <keyword>vocabulary</keyword>
+                <keyword>context clues</keyword>
+                <keyword>reading comprehension</keyword>
+                <keyword>GED test</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>On most Hi-set tests, you'll encounter difficult vocabulary words. While studying vocabulary is helpful, you need strategies for understanding new words during the test.</context>
+        
+        <steps>
+            <step>
+                <cmd>Locate the unfamiliar word in its paragraph</cmd>
+                <info>Find where the word appears and note its position in the text.</info>
+            </step>
+            <step>
+                <cmd>Examine the surrounding context</cmd>
+                <info>Look at sentences before and after the word.</info>
+            </step>
+            <step>
+                <cmd>Identify context clues</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Look for explanations or definitions</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Find examples that illustrate the word's meaning</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Notice patterns of related ideas</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Determine the word's meaning from context</cmd>
+                <stepxmp>
+                    In the sample text, "contentious" appears in discussion of conflicts and disagreements, suggesting it means "disputed" or "controversial"
+                </stepxmp>
+            </step>
+        </steps>
+        
+        <result>You should be able to understand unfamiliar words without a dictionary.</result>
+    </taskbody>
+</task>

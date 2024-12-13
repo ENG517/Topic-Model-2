@@ -1,0 +1,35 @@
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="main_idea_elements">
+    <title>Understanding Main Idea Elements</title>
+    <shortdesc>Learn about the key components that make up a main idea.</shortdesc>
+    <prolog>
+        <metadata>
+            <audience type="novice"/>
+            <keywords>
+                <keyword>main idea</keyword>
+                <keyword>text structure</keyword>
+                <keyword>supporting details</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <section>
+            <title>Main Idea Components</title>
+            <ul>
+                <li>Central theme or argument</li>
+                <li>Supporting details</li>
+                <li>Key points</li>
+            </ul>
+        </section>
+        
+        <section>
+            <title>Text Structure Elements</title>
+            <ul>
+                <li>Introduction</li>
+                <li>Body paragraphs</li>
+                <li>Conclusion</li>
+                <li>Transition words</li>
+            </ul>
+        </section>
+    </conbody>
+</concept>

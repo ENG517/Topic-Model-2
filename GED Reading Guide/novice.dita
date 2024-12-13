@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val>
+    <!-- Include all content marked for novice audience -->
+    <prop att="audience" val="novice" action="include"/>
+    
+    <!-- Exclude content marked for expert audience -->
+    <prop att="audience" val="expert" action="exclude"/>
+    
+    <!-- Include content with no audience attribute -->
+    <prop att="audience" val="all" action="include"/>
+</val>

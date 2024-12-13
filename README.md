@@ -1,4 +1,4 @@
-# DITA Topic Model - ENTER TITLE OF PROJECT HERE
+# DITA Topic Model - GED Reading Passage Guide 
 
 This repo contains a DITA topic model (TM) related to [enter main goal and topic of your model here].
 

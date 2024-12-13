@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>GED Reading Skills Guide</title>
+    
+    <!-- Metadata for the entire guide -->
+    <topicmeta>
+        <audience type="novice"/>
+        <category>GED Test Preparation</category>
+        <keywords>
+            <keyword>reading comprehension</keyword>
+            <keyword>GED test</keyword>
+            <keyword>study guide</keyword>
+        </keywords>
+    </topicmeta>
+
+    <topichead navtitle="Reading Skills Overview">
+        <topicgroup collection-type="sequence">
+            
+            <topicref href="tasks/finding_main_idea.dita">
+                <topicref href="concepts/main_idea_elements.dita"/>
+                <topicref href="reference/main_idea_examples.dita"/>
+            </topicref>
+            
+            <topicref href="tasks/marking_evidence.dita">
+                <topicref href="concepts/evidence_types.dita"/>
+                <topicref href="reference/marking_symbols.dita"/>
+            </topicref>
+            
+            <topicref href="tasks/understanding_words.dita">
+                <topicref href="concepts/context_clues.dita"/>
+                <topicref href="reference/vocabulary_strategies.dita"/>
+            </topicref>
+            
+            <topicref href="tasks/answering_multiple_choice.dita">
+                <topicref href="reference/question_types.dita"/>
+            </topicref>
+            
+        </topicgroup>
+    </topichead>
+</map>
